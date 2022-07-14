@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @timeisnotwaiting
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Timeisnotwaiting
+- 👀 I’m interested in None
+- 🌱 I’m currently learning None
+- 💞️ I’m looking to collaborate on None
+- 📫 How to reach me @Timeisnotwaiting
 
 <!---
 timeisnotwaiting/timeisnotwaiting is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
